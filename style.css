@@ -1,0 +1,66 @@
+.abc{
+    text-align:left;
+    color:white;
+        background-color: rgb(3, 3, 146); 
+        width: 100rem;
+        height: 50rem;
+       padding: 200px;
+       margin:auto;
+}
+.logo{
+    color: rgb(33, 3, 255);
+    font-size: 35px;
+    font-family: Arial;
+    
+}
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(170, 164, 164);
+    font-family: Arial;
+    font-weight: bold;
+    margin-top: 30px;
+    padding-right: 10px;
+    padding-top: 20px;
+}
+ul li a:hover{
+    color: orangered;
+}
+.p1{
+    font-size: 30px;
+}
+.text{
+    font-size: 20px;
+    color: rgb(126, 118, 118);
+}
+/* 3dr page */
+.PQR{
+    margin: auto;
+    padding: 70px;
+}
+.DEF{
+    margin: 30PX;
+}
+.XYZ{
+    margin: auto;
+    padding-left: 30rem;
+}
+.btn btn-success{
+    justify-content: center;
+}
